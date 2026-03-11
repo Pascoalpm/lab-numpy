@@ -15,4 +15,3 @@ lab-numpy/
 │   ├── exercicio_10.ipynb
 │   └── exercicio_17_individual.ipynb
 └── relatorio/
-    └── (aqui você colocará o PDF depois)
